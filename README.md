@@ -1,13 +1,13 @@
-# Query framework
+# Update framework
 
-Provides framework for query behaviours.
+Provides framework for update behaviours.
 
 ## Install
 
 The recommended way to install this library is [through composer](http://getcomposer.org).
 
 ```sh
-composer require xylemical/query
+composer require xylemical/update
 ```
 
 ## Usage
